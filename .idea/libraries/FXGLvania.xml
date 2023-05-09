@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FXGLvania">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/canoe/FXGLvania.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
